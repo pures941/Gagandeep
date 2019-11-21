@@ -1,0 +1,4 @@
+  
+$pets = array("cat","dog", "mouse");
+  foreach ($pets as $pet){
+  echo$pet}
